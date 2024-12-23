@@ -32,7 +32,7 @@ Desenvolva um site simples em Drupal que funcione como um blog.
 
 1. Faça um fork deste repositório para sua conta pessoal do GitHub.
 2. Commit e push suas mudanças para o seu fork.
-3. Envie um e-mail para [pedro.miotti@khipo.com.br] com o link do repositório.
+3. Envie um e-mail para [guilherme.queiroz@khipo.com.br] com o link do repositório.
 
 ## 🧪 Avaliação:
 
